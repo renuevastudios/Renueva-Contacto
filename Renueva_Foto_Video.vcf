@@ -1,7 +1,9 @@
 BEGIN:VCARD
 VERSION:3.0
-FN:Renueva Foto Video
-N:;Renueva Foto Video;;;
+FN:Renueva - Foto video marketing
+N:;Renueva - Foto video marketing;;;
 TEL;TYPE=CELL:+573135082087
+EMAIL;TYPE=INTERNET:contacto@renuevastudios.com
 URL:https://renuevastudios.com
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/renuevastudios/
 END:VCARD
